@@ -2,7 +2,8 @@
 title: Github 명령어 가이드
 tags: [computer, github]
 ---
-## 1.  처음 연결 시<hr>
+## 1.  처음 연결 시
+<hr>
 
 ##### git init
 
@@ -78,8 +79,10 @@ tags: [computer, github]
 <br>
 <br>
 
-## 2. 주요 명령어<hr>
-### 2. 1 git Staging<hr>
+## 2. 주요 명령어
+<hr>
+### 2. 1 git Staging
+<hr>
 
 ##### git add
 
@@ -150,7 +153,8 @@ tags: [computer, github]
 <br>
 <br>
 
-### 2. 2 git Commit<hr>
+### 2. 2 git Commit
+<hr>
 
 ##### git commit
 
@@ -192,7 +196,8 @@ tags: [computer, github]
 <br>
 <br>
 
-### 2. 3 git Push, Pull<hr>
+### 2. 3 git Push, Pull
+<hr>
 
 ##### git push
 
@@ -236,7 +241,8 @@ tags: [computer, github]
 <br>
 <br>
 
-### 2. 4 git Branch<hr>
+### 2. 4 git Branch
+<hr>
 
 &ensp;github에서 커밋 등의 작업은 모두 특정 로컬 브랜치에서 이루어지고, 이 커밋들 또한 특정한 원격 브랜치에 업로드된다. 로컬 브랜치에서 작업한 내용들은 동명의 원격 브랜치에 push함으로써 원격 저장소에 업로드된다.
 
