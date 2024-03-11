@@ -1,6 +1,7 @@
 ---
 title: Github 명령어 가이드
 tags: [computer, github]
+date: [2024-03-01]
 ---
 ## 1.  처음 연결 시
 <hr>
