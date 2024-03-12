@@ -1,7 +1,7 @@
 ## 하위 레벨
 [[Astronomy]]
 
-[[Computer]]
+[Computer](https://myfavoritethings.pages.dev/HUB/Computer)
 
 [[Culture]]
 
