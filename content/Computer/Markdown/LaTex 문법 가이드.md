@@ -17,8 +17,11 @@ date: [2024-03-08]
 
 ```latex
 $x + y = 1$
+
 $x - y = 1$
+
 $x \times y = 1$
+
 $x \div y = 1$
 ```
 
@@ -27,9 +30,12 @@ $x \div y = 1$
 
 ##### 출력
 
-$x + y = 1$
+$x + y = 1$ 
+
 $x - y = 1$
+
 $x \times y = 1$
+
 $x \div y = 1$
 
 <br>
@@ -43,6 +49,7 @@ $x \div y = 1$
 
 ```latex
 $\frac{x}{y}$
+
 $^x/_y$
 ```
 
@@ -52,54 +59,31 @@ $^x/_y$
 ##### 출력
 
 $\frac{x}{y}$
+
 $^x/_y$
 
 <br>
 <br>
 <br>
 
-## 3. 수식 번호
-<hr>
-
-##### 입력
-
-```latex
-//$$ ... $$는 식을 가운데 정렬하여 출력한다.
-//tag{}를 사용할 시 $$로 가운데 정렬 출력을 해야한다.
-
-$$X_{1,j} \mathbf{F}X_{2,j}  = 0, \tag{1}$$
-```
-
-<br>
-<br>
-
-##### 출력
-
-$$X_{1,j} \mathbf{F}X_{2,j}  = 0, \tag{1}$$
-
-<br>
-
-> [!info]
-> - \$\$ ... \$\$는 식을 가운데 정렬하여 출력한다.
-> + tag{}를 사용할 시 \$\$로 가운데 정렬 출력을 해야한다.
-
-<br>
-<br>
-<br>
-
-## 4. 괄호
+## 3. 괄호
 <hr>
 
 ##### 입력
 
 ```latex
 $(x + y)$
+
 $\{x + y\}$
+
 $[x + y]$
+
 $\lvert x + y \rvert$
+
 $\langle x + y \rangle$
 
 $\left(\frac{x}{y}\right)$
+
 $\Bigg( \bigg( \Big( \big( ( ) \big) \Big) \bigg) \Bigg)$
 ```
 
@@ -109,25 +93,31 @@ $\Bigg( \bigg( \Big( \big( ( ) \big) \Big) \bigg) \Bigg)$
 ##### 출력
 
 $(x + y)$
+
 $\{x + y\}$
+
 $[x + y]$
+
 $\lvert x + y \rvert$
+
 $\langle x + y \rangle$
 
 $\left(\frac{x}{y}\right)$
+
 $\Bigg( \bigg( \Big( \big( ( ) \big) \Big) \bigg) \Bigg)$
 
 <br>
 <br>
 <br>
 
-## 5. 위 첨자, 아래 첨자
+## 4. 위 첨자, 아래 첨자
 <hr>
 
 ##### 입력
 
 ```latex
 $x^y$
+
 $x_y$
 ```
 
@@ -137,22 +127,27 @@ $x_y$
 ##### 출력
 
 $x^y$
+
 $x_y$
 
 <br>
 <br>
 <br>
 
-## 6. 연속점
+## 5. 연속점
 <hr>
 
 ##### 입력
 
 ```latex
 $\dots$
+
 $\cdots$
+
 $\ldots$
+
 $\vdots$
+
 $\ddots$
 ```
 
@@ -162,16 +157,20 @@ $\ddots$
 ##### 출력
 
 $\dots$
+
 $\cdots$
+
 $\ldots$
+
 $\vdots$
+
 $\ddots$
 
 <br>
 <br>
 <br>
 
-## 7. 거듭 제곱근과 팩토리얼
+## 6. 거듭 제곱근과 팩토리얼
 <hr>
 
 ##### 입력
@@ -180,6 +179,7 @@ $\ddots$
 $\sqrt{x}$
 
 $n! = 1 \times 2 \times 3 \times \ldots n$
+
 $n! = \prod_{k=1}^n k$
 ```
 
@@ -191,13 +191,14 @@ $n! = \prod_{k=1}^n k$
 $\sqrt{x}$
 
 $n! = 1 \times 2 \times 3 \times \ldots n$
+
 $n! = \prod_{k=1}^n k$
 
 <br>
 <br>
 <br>
 
-## 8. 행렬
+## 7. 행렬
 <hr>
 
 ##### 입력
@@ -247,7 +248,7 @@ $$
 <br>
 <br>
 
-## 9. 적분
+## 8. 적분
 <hr>
 
 ##### 입력
@@ -271,7 +272,7 @@ $
 <br>
 <br>
 
-## 10. 삼각함수
+## 9. 삼각함수
 <hr>
 
 ##### 입력
@@ -298,7 +299,7 @@ $90^\circ$
 <br>
 <br>
 
-## 11. 극한, 시그마, 로그
+## 10. 극한, 시그마, 로그
 <hr>
 
 ##### 입력
@@ -307,6 +308,7 @@ $90^\circ$
 $\lim_{x \to \infty} \exp(-x) = 0$
 
 $\sum_{i=1}^{10} t_i$
+
 $\displaystyle\sum_{i=1}^{10} t_i$
 
 $\log_b a$
@@ -320,6 +322,7 @@ $\log_b a$
 $\lim_{x \to \infty} \exp(-x) = 0$
 
 $\sum_{i=1}^{10} t_i$
+
 $\displaystyle\sum_{i=1}^{10} t_i$
 
 $\log_b a$
@@ -328,7 +331,7 @@ $\log_b a$
 <br>
 <br>
 
-## 12. 폰트
+## 11. 폰트
 <hr>
 
 ##### 입력
@@ -363,7 +366,7 @@ $\mathtt{ABCDEF}$
 <br>
 <br>
 
-## 13. 벡터 및 확장 로마자
+## 12. 벡터 및 확장 로마자
 <hr>
 
 ##### 입력
