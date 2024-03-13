@@ -51,7 +51,7 @@ date: 2024-03-06
 
 ##### 편집(Editor) 창
 
-&ensp;Script파일을 작성하기 위한 창이다. 더 자세한 내용은 [[PART 2. Script파일(.m파일) 사용하기]]를 참조.
+&ensp;Script파일을 작성하기 위한 창이다. 더 자세한 내용은 [[PART 2. Script파일 사용하기]]를 참조.
 
 <br>
 <br>
