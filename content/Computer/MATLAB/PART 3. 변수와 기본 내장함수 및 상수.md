@@ -1,5 +1,5 @@
 ---
-PART 3. 변수와 기본 내장함수 및 상수
+title: PART 3. 변수와 기본 내장함수 및 상수
 tags: [computer, matlab]
 date: [2024-03-12]
 ---
