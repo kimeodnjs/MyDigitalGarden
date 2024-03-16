@@ -564,7 +564,7 @@ Subscript<sub>Subscript</sub>
 
 ##### 출력
 
-![[Markdown]]
+![[LaTeX 문법 가이드]]
 
 ![[LaTeX 문법 가이드#^ecf543]]
 
