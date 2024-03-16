@@ -554,9 +554,9 @@ Subscript<sub>Subscript</sub>
 ##### 입력
 
 ```markdown
-![[Markdown]]
+![[LaTeX 문법 가이드]]
 
-![[Markdown#^988253]]
+![[LaTeX 문법 가이드#^ecf543]]
 ```
 
 <br>
@@ -566,7 +566,7 @@ Subscript<sub>Subscript</sub>
 
 ![[Markdown]]
 
-![[Markdown#^988253]]
+![[LaTeX 문법 가이드#^ecf543]]
 
 <br>
 <br>
