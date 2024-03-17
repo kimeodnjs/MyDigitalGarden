@@ -477,6 +477,8 @@ $\ne, \neq, \equiv, \risingdotseq$
 $\cdot, \circ, \bullet, \otimes, \odot, \bigoplus, \bigodot$
 
 $\approx, \le, \ge, \propto$
+
+$\partial, \nabla$
 ```
 
 <br>
@@ -491,6 +493,8 @@ $\ne, \neq, \equiv, \risingdotseq$
 $\cdot, \circ, \bullet, \otimes, \odot, \bigoplus, \bigodot$
 
 $\approx, \le, \ge, \propto$
+
+$\partial, \nabla$
 
 <br>
 <br>
