@@ -1,0 +1,96 @@
+---
+title: PART 9. 사용자정의함수
+tags: [computer, matlab]
+date: [2024-03-21]
+---
+## 1. 사용자정의함수
+<hr>
+
+&ensp;사용자가 임의로 필요한 함수 기능을 스크립트 파일로 만들어 사용할 수 있는데, 이렇게 작성된 파일을 MATLAB에서 제공하는 내장함수와 구별하여 사용자정의함수라고 부른다.
+
+<br>
+<br>
+
+##### function [output variables] = name (input variables)
+
+- **function:** Python에서의 'def'와 같이 함수 선언을 의미한다.
++ **[output variables]:** 출력값들이 들어갈 변수를 지정한다.
+- **name:** 함수의 이름을 지정한다.
++ **input variables:** 입력값들이 들어갈 변수를 지정한다.
+
+<br>
+<br>
+
+##### 규칙
+
++ 구문은 반드시 'function'으로 시작하고, 모든 철자를 소문자로 작성한다.
+- 출력변수가 여러 개일 때는 반드시 대괄호를 사용하고, 출력변수가 하나라면 대괄호를 사용하지 않아도 된다.
++ 입력변수는 반드시 소괄호 안에 작성해야 한다.
+- 출력변수나 입력변수가 하나 이상일 때는 각 변수를 콤마(,)로 구분한다.
++ 명령줄 끝에 세미콜론을 사용해도 상관없다.
+
+<br>
+<br>
+
+##### 예시
+
+```matlab
+function [area] = Eval_area(r)
+
+Circle = (pi*r^2);
+
+Cir2Area = 2*Circle;
+
+l = 2*r;
+
+w = 4*r;
+
+Rect = w*l;
+
+area = Rect - Cir2Area;
+
+end
+```
+
+<br>
+
+```matlab
+>> area = Eval_area(3)
+
+area =
+
+   1.5451e+01
+
+```
+
+<br>
+
+```matlab
+function [L,P] = field(W,A)
+
+L = (A-W.^2/8)./W;
+
+P = 2*L+W+2*W/sqrt(2);
+
+end
+```
+
+<br>
+
+```matlab
+>> [L,P]=field(6,80)
+
+L =
+
+   1.2583e+01
+
+
+P =
+
+   3.9652e+01
+
+```
+
+<br>
+<br>
+<br>
