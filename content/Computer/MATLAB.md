@@ -17,7 +17,7 @@
 
 [[그래프]]
 
-[[Computer/MATLAB/외부 파일 불러오기, 내보내기]]
+[[Computer/MATLAB/외부 파일 불러오기, 내보내기|외부 파일 불러오기, 내보내기]]
 
 [[사용자정의함수]]
 
@@ -29,4 +29,4 @@
 <br>
 <br>
 
-##### 심벌릭 툴박스(Symbolic Math Toolbox)에 대한 내용은 [[Computer/MATLAB/Symbolic Math Toolbox|Symbolic Math Toolbox]] 참조
+##### 심벌릭 툴박스(Symbolic Math Toolbox)에 대한 내용은 [[Symbolic Math Toolbox]] 참조
