@@ -3,25 +3,30 @@
 
 ##### Basic
 
-[[Computer/MATLAB/PART 1. 유저 인터페이스|PART 1. 유저 인터페이스]]
+[[유저 인터페이스|유저 인터페이스]]
 
-[[PART 2. Script파일 사용하기]]
+[[Script파일 사용하기]]
 
-[[PART 3. 변수와 기본 내장함수 및 상수]]
+[[변수와 기본 내장함수 및 상수]]
 
-[[PART 4. 연산자]]
+[[연산자]]
 
-[[PART 5. 배열]]
+[[배열]]
 
-[[PART 6. 조건문과 반복문]]
+[[조건문과 반복문]]
 
-[[PART 7. 그래프]]
+[[그래프]]
 
-[[PART 8. 외부 파일 불러오기, 내보내기]]
+[[Computer/MATLAB/외부 파일 불러오기, 내보내기]]
 
-[[PART 9. 사용자정의함수]]
+[[사용자정의함수]]
 
 <br>
 <br>
 
 ##### 시뮬링크(Simulink)에 대한 내용은 [[Simulink]] 참조
+
+<br>
+<br>
+
+##### 심벌릭 툴박스(Symbolic Math Toolbox)에 대한 내용은 [[Computer/MATLAB/Symbolic Math Toolbox|Symbolic Math Toolbox]] 참조
