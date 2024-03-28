@@ -6,37 +6,7 @@ date:
 ## 하위 레벨
 [[1. The Electromagnetic Spectrum; Elementary Properties of Radiation]]
 
-
-## 2. Radiative Flux
-<hr>
-
-### 2. 1 Macroscopic Description of the Propagation of Radiation
-<hr>
-
-&ensp;Provided radiation travels in straight lines, consider an element of area $\mathrm{d}A$ exposed to radiation for time $\mathrm{d}t$. The amount of energy passing through the element should be proportional to $\mathrm{d}A\mathrm{d}t$, and we write it as $F\mathrm{d}A\mathrm{d}t$. The energy flux is measured in $erg{\cdot}s^{-1}{\cdot}cm^{-2}$.
-
-<br>
-
-> [!note]
-> $F$ can depend on the orientation of the element.
-
-<br>
-<br>
-<br>
-
-### 2. 2 Flux from an Istropic Source - the Inverse Square Law
-<hr>
-
-&ensp;A source of radiation is called *isotropic* if it emits energy equally in all directions. If we put imaginary spherical surfaces $S_1$ and $S_2$ at radii $r_1$ and $r_2$, respectively, about the source, we know by *conversation of energy* that the total energy passing through $S_1$ must be the same as that passing through $S_2$. Thus
-$$F(r_1){\cdot}4{\pi}r^2_1 = F(r_2){\cdot}4{\pi}r^2_2$$
-or
-$$F(r_2) = \frac{F(r_1)r^2_1}{r^2_2}$$
-If we regard the sphere $S_1$ as fixed, and the radius $r_2$ variable, then 
-$$F = \frac{constant}{r^2}$$
-
-<br>
-<br>
-<br>
+[[2. Radiative Flux]]
 
 ## 3. The Specific Intensity and Its Moments
 <hr>
