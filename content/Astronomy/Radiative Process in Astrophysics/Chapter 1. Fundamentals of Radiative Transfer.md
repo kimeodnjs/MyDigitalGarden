@@ -8,6 +8,8 @@ date:
 
 [[2. Radiative Flux]]
 
+[[3. The Specific Intensity and Its Moments]]
+
 ## 3. The Specific Intensity and Its Moments
 <hr>
 
