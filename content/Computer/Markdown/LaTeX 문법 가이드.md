@@ -4,7 +4,7 @@ tags: [computer, markdown]
 date: [2024-03-08]
 ---
 >[!info]
-> 필요할 때 마다 주기적으로 업데이트 되는 노트입니다. 더 자세한 내용은 [위키 백과](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95) 참조
+> 필요할 때 마다 업데이트 되는 노트입니다. 더 자세한 내용은 [위키 백과](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95) 참조
 
 <br>
 <br>
