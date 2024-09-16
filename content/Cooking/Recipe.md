@@ -1,6 +1,6 @@
 ## 하위 레벨
-[Ragu alla Bolognese]
+[[Ragu alla Bolognese]]
 
-[Pesto alla Genovese]
+[[Pesto alla Genovese]]
 
 
