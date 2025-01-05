@@ -129,12 +129,12 @@ date: [2024-06-30]
 
 &ensp;터미널 작성 내역을 모두 삭제
 
-
 <br>
 <br>
 <br>
 
-## 2. vim에디터<hr>
+## 2. vim에디터
+<hr>
 
 ##### vi \<file1> 또는 vim \<file1>
 
@@ -169,9 +169,13 @@ date: [2024-06-30]
 + **:set nonumber :** vi 편집기에서 줄 수를 숨김
 - **/<검색어>:** 검색 기능
 + **dd**: 해당 줄 삭제
+
+<br>
+<br>
 <br>
 
-### 2. 1 파이썬<hr>
+## 3. 파이썬
+<hr>
 
 ##### ipython --pylab
 
@@ -186,23 +190,26 @@ date: [2024-06-30]
 
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-><span style="color:black">Bundler    
-    
-```commandline  jekyll 로컬 서버 실행: bundle exec jekyll serve    
-    
-로컬 서버 강제 종료  port 번호로 PID 찾기: lsof -i :<포트번호>  PID로 강제 종료하기: kill -9 <PID>    
-```
 <br>
+
+## 4. Ruby
+<hr>
+
+### 4. 1 Bundler
+<hr>
+
+##### bundle exec jekyll serve
+
+&ensp;Jekyll 로컬 서버 실행
+
+<br>
+<br>
+
+##### 로컬 서버 강제 종료하기
+
+- **lsof -i <포트번호>:** Port번호로 PID 찾기
++ **kill -9 \<PID>:** PID로 강제 종료하기
+
+<br>
+<br>
+
