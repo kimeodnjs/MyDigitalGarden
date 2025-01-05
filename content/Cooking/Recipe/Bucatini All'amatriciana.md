@@ -1,6 +1,6 @@
 ---
 title: Bucatini All'amatriciana
-tags: [cooking, Pasta]
+tags: [cooking, pasta]
 date: [2024-09-17]
 ---
 ## 1. 재료
