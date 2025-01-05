@@ -7,3 +7,5 @@
 
 [[Cooking]]
 
+#blog 
+#computer
