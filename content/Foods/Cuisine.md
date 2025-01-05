@@ -1,4 +1,18 @@
-## 하위 레벨
+## Italian
 <hr>
 
-[[Battuto와 Soffrito, Insaporire]]
+##### [[Battuto]]
+
+<br>
+<br>
+
+##### [[Soffrito]]
+
+<br>
+<br>
+
+##### [[Insaporire]]
+
+<br>
+<br>
+<br>
