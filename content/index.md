@@ -8,8 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <hr>
 
-[[HUB]] 
+[[HUB]]
 
-[Tag](https://myfavoritethings.pages.dev/tags/) 
+[Tag](https://myfavoritethings.pages.dev/tags/)
 
 
