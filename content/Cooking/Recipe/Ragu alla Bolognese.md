@@ -1,6 +1,6 @@
 ---
 title: Ragu alla Bolognese
-tags: [cooking, Sauce]
+tags: [cooking, sauce]
 date: [2024-09-16]
 ---
 ## 1. 재료
