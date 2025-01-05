@@ -8,8 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <hr>
 
-원하는 주제로 탐색을 원한다면 [[HUB]]로
+[[HUB]]
 
-태그로 탐색을 원한다면 [Tag](https://myfavoritethings.pages.dev/tags/)로
+[Tag](https://myfavoritethings.pages.dev/tags/)
 
 
