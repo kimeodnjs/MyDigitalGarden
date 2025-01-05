@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## [[Cooking]]
+## [[Foods]]
 <hr>
 
 <br>
