@@ -1,5 +1,5 @@
 ---
-title: Battuto와 Soffrito, Insaporire
+title: Battuto와 Soffrito, Insaporire
 tags: [cooking]
 date: [2024-09-20]
 ---
