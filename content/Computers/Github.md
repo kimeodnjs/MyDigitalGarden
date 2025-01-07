@@ -1,4 +1,4 @@
-## [[Github란?]]
+## [[github란?]]
 <hr>
 
 <br>
